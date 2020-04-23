@@ -9,6 +9,9 @@ const NETWORK = 'mainnet';
 const SUPPORTED_CURRENCIES = [{
     symbol: 'BTC',
     name: 'Bitcoin'
+}, {
+    symbol: 'ZEN',
+    name: 'Horizen'
 }];
 
 const bot = new ParticlBot({

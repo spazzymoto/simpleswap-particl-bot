@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "got": "^9.6.0",
-    "particl-bot-core": "^0.0.6",
+    "particl-bot-core": "^0.0.7",
     "rxjs": "^6.5.3"
   }
 }
